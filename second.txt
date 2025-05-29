@@ -1,2 +1,3 @@
 this is another file just want to check unstaged files.
 resolve conflicts now this master branch
+hello
