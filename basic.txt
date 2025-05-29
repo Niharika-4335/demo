@@ -1,0 +1,2 @@
+hi welcome to vs code.
+this is basic text file.
